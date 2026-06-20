@@ -1,2 +1,2 @@
 # Mini-Strava
-Idk if I am currently learning cuz most of the things I'm doing rn is something unfamiliar and done it first time with the help of AI. I'll look back to this and see if I really improve. To my future self — did I improve? 
+I don't know if I am currently learning because most of the things I'm doing right now is something unfamiliar. Could'nt have done this without the help of AI. I am having an impostor syndrome making this because most of the stuff is I asked AI about. I really want to be good in writing codes on my own knowledge and skill, but I guess it takes time. I hope so. I'll look back to this project and see if I really do improve. To my future self — did you improve? 
