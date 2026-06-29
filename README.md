@@ -1,2 +1,2 @@
 # Mini-Strava
-I don't know if I am currently learning because most of the things I'm doing right now is something unfamiliar. Could'nt have done this without the help of AI. I am having an impostor syndrome making this because most of the stuff I put and wrote was asked or came from AI. I really want to be good in writing codes on my own skill and knowledge, but I guess it takes time. I hope so. I'll look back into this project and see if I really do improve. To my future self — did you improve? 
+This was unfinished lol
